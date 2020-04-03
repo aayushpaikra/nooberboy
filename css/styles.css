@@ -1,0 +1,157 @@
+body{
+  margin: 0;
+}
+hr{
+  border-style: dotted;
+  border-width: .5rem 0 0 0;
+  border-color: #363062 ;
+  position: relative;
+  bottom: 4rem;
+  width: 5rem;
+}
+h3{
+  font-family: 'Neucha', cursive;
+  font-size: 3rem;
+  color: black;
+
+}
+h1{
+
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  position: relative;
+  top: 200px;
+}
+h2{
+  font-family: 'Neucha', cursive;
+  font-size: 3rem;
+  color: white;
+
+}
+
+ul{
+
+  font-family: 'Montserrat', cursive;
+  font-size: 1.5rem;
+  color: white;
+
+}
+
+#Electrical{
+  text-align: center;
+  font-family: 'Neucha', cursive;
+  font-size: 40px;
+  display: block;
+  position: relative;
+  top: 150px;
+
+}
+#bulb{
+  height: 300px;
+  display: block;
+  position: relative;
+  bottom: 31.25rem;
+  left: 56.25rem;
+}
+#Tower{
+  height: 400px;
+  width: 75%;
+  display: block;
+  position: relative;
+  top: 40px;
+}
+
+#about{
+  margin: 0 15rem ;
+  position: relative;
+  bottom: 17rem;
+  left: 8rem;
+}
+p{
+  font-family: 'Montserrat', cursive;
+  font-size: 1.5rem;
+  color: white;
+}
+.TopContent{
+  background-color: #d8b9c3;
+  height: 650px;
+
+}
+.MiddleContent{
+  background-color: #827397;
+  height: 150rem;
+}
+.BottomContent{
+  text-align: center;
+  padding: 5rem;
+  background-color: #4d4c7d;
+  height: 10rem;
+}
+
+.dp{
+  border-radius: 100%;
+  height: 17rem;
+  margin: 5rem 3rem;
+}
+.Ricon{
+  margin: 5rem;
+  padding-left: 24rem;
+}
+.Licon{
+  margin: 5rem;
+  padding-right: 24rem;
+}
+
+.Academics{
+  position: relative;
+  bottom: 55rem;
+}
+.Design{
+  position: relative;
+  bottom: 37rem;
+}
+.Robotics{
+  margin: 5rem;
+  position: relative;
+  bottom: 47rem;
+}
+.Languages{
+  position: relative;
+  bottom: 30rem;
+}
+
+#rt{
+  position: relative;
+  left: 0;
+  height: 20rem;
+  margin: 4rem;
+}
+#r1t{
+  position: relative;
+  left: 27rem;
+  top: 32rem;
+  height: 20rem;
+  margin: 4rem;
+}
+#r2t{
+  position: relative;
+  left: 0;
+  top: 27rem;
+  height: 20rem;
+  margin: 4rem
+}
+#r3t{
+  position: relative;
+  left: 27rem;
+  top: 53rem;
+  height: 20rem;
+  margin: 4rem;
+}
+.available{
+  display: inline;
+}
+.contact{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
